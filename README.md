@@ -2,7 +2,7 @@
 
 This is the repository for my DATA 1030 midterm project using the Yelp business dataset.
 The Jupyter Notebook used to clean, split, and preprocess the data can be found in the src folder. 
-Relevant figures have been saved in the Figures folder and the .zip file of the data files necessary can be found in the Data folder.
+Relevant figures have been saved in the Figures folder and the .zip file of the data files used can be found in the Data folder.
 Alternatively, one can download the Yelp business dataset from the [Yelp Open dataset website](https://www.yelp.com/dataset).
 A JSON to CSV converter can be found on the [Yelp Dataset Github](https://github.com/Yelp/dataset-examples).
 
