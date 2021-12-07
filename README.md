@@ -1,6 +1,6 @@
 ## Star Rating Classification of Yelp Businesses
 
-This is the repository for my DATA 1030 final project using the Yelp business dataset. The final report is split into six main sections:
+This is the repository for my DATA 1030 final project using the Yelp business dataset. The [final report](https://github.com/emilynomura1/1030FinalProject/blob/main/report/Final-Report.pdf) is split into six main sections:
 1. Introduction
 2. Exploratory Data Analysis
 3. Methods
